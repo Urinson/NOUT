@@ -1,0 +1,10 @@
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\Urok\Urok_08.10.20\Urok_08.10.20\bin\Debug\Urok_08.10.20.exe.config
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\Urok\Urok_08.10.20\Urok_08.10.20\bin\Debug\Urok_08.10.20.exe
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\Urok\Urok_08.10.20\Urok_08.10.20\bin\Debug\Urok_08.10.20.pdb
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\Urok\Urok_08.10.20\Urok_08.10.20\obj\Debug\Urok_08.10.20.csprojAssemblyReference.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\Urok\Urok_08.10.20\Urok_08.10.20\obj\Debug\Urok_08._10._20.Form1.resources
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\Urok\Urok_08.10.20\Urok_08.10.20\obj\Debug\Urok_08._10._20.Properties.Resources.resources
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\Urok\Urok_08.10.20\Urok_08.10.20\obj\Debug\Urok_08.10.20.csproj.GenerateResource.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\Urok\Urok_08.10.20\Urok_08.10.20\obj\Debug\Urok_08.10.20.csproj.CoreCompileInputs.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\Urok\Urok_08.10.20\Urok_08.10.20\obj\Debug\Urok_08.10.20.exe
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\Urok\Urok_08.10.20\Urok_08.10.20\obj\Debug\Urok_08.10.20.pdb

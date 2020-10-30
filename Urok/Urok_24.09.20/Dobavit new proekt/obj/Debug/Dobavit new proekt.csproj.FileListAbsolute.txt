@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\Urok\Urok_24_09_20\Dobavit new proekt\bin\Debug\Dobavit new proekt.exe.config
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\Urok\Urok_24_09_20\Dobavit new proekt\bin\Debug\Dobavit new proekt.exe
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\Urok\Urok_24_09_20\Dobavit new proekt\bin\Debug\Dobavit new proekt.pdb
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\Urok\Urok_24_09_20\Dobavit new proekt\obj\Debug\Dobavit_new_proekt.Form1.resources
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\Urok\Urok_24_09_20\Dobavit new proekt\obj\Debug\Dobavit_new_proekt.Properties.Resources.resources
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\Urok\Urok_24_09_20\Dobavit new proekt\obj\Debug\Dobavit new proekt.csproj.GenerateResource.cache
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\Urok\Urok_24_09_20\Dobavit new proekt\obj\Debug\Dobavit new proekt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\Urok\Urok_24_09_20\Dobavit new proekt\obj\Debug\Dobavit new proekt.exe
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\Urok\Urok_24_09_20\Dobavit new proekt\obj\Debug\Dobavit new proekt.pdb

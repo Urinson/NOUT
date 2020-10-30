@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urok_24_09_20", "Urok_24_09_20\Urok_24_09_20.csproj", "{F705A53F-CA96-4F79-B8BB-FADA2597C850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dobavit new proekt", "Dobavit new proekt\Dobavit new proekt.csproj", "{8A87C758-966E-44F8-A9E4-29FA21F4690C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F705A53F-CA96-4F79-B8BB-FADA2597C850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F705A53F-CA96-4F79-B8BB-FADA2597C850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F705A53F-CA96-4F79-B8BB-FADA2597C850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F705A53F-CA96-4F79-B8BB-FADA2597C850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A87C758-966E-44F8-A9E4-29FA21F4690C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A87C758-966E-44F8-A9E4-29FA21F4690C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A87C758-966E-44F8-A9E4-29FA21F4690C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A87C758-966E-44F8-A9E4-29FA21F4690C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2B7340F-426E-45C3-AC00-27681926CDC2}
+	EndGlobalSection
+EndGlobal

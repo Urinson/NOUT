@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\OOP\PR_1\PR_1\bin\Debug\PR_1.exe.config
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\OOP\PR_1\PR_1\bin\Debug\PR_1.exe
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\OOP\PR_1\PR_1\bin\Debug\PR_1.pdb
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\OOP\PR_1\PR_1\obj\Debug\PR_1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\OOP\PR_1\PR_1\obj\Debug\PR_1.Form1.resources
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\OOP\PR_1\PR_1\obj\Debug\PR_1.Properties.Resources.resources
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\OOP\PR_1\PR_1\obj\Debug\PR_1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\OOP\PR_1\PR_1\obj\Debug\PR_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\OOP\PR_1\PR_1\obj\Debug\PR_1.exe
+C:\Users\User\Desktop\UCHEBA-2\Grisman_SS\OOP\PR_1\PR_1\obj\Debug\PR_1.pdb
