@@ -11,3 +11,7 @@ git push -u origin main
 git remote add origin https://github.com/Urinson/Grisman_SS.git
 git branch -M main
 git push -u origin main
+
+***
+find . -type d -empty -exec touch {}/.gitignore \
+git checkout master
