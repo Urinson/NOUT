@@ -1,3 +1,0 @@
-# NOUT
-# NOUT
-# NOUT
