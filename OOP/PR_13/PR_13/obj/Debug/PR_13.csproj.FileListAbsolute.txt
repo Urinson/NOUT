@@ -1,0 +1,10 @@
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_13\PR_13\bin\Debug\PR_13.exe.config
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_13\PR_13\bin\Debug\PR_13.exe
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_13\PR_13\bin\Debug\PR_13.pdb
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_13\PR_13\obj\Debug\PR_13.csprojAssemblyReference.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_13\PR_13\obj\Debug\PR_13.Form1.resources
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_13\PR_13\obj\Debug\PR_13.Properties.Resources.resources
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_13\PR_13\obj\Debug\PR_13.csproj.GenerateResource.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_13\PR_13\obj\Debug\PR_13.csproj.CoreCompileInputs.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_13\PR_13\obj\Debug\PR_13.exe
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\OOP\PR_13\PR_13\obj\Debug\PR_13.pdb
