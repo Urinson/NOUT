@@ -1,0 +1,1 @@
+CREATE TABLE Nosolugy (id int, Naimenovanie nchar (200))

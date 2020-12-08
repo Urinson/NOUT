@@ -1,0 +1,10 @@
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\SQL_SERVER\SQL_07.12.20\SQL_07.12.20\bin\Debug\SQL_07.12.20.exe.config
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\SQL_SERVER\SQL_07.12.20\SQL_07.12.20\bin\Debug\SQL_07.12.20.exe
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\SQL_SERVER\SQL_07.12.20\SQL_07.12.20\bin\Debug\SQL_07.12.20.pdb
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\SQL_SERVER\SQL_07.12.20\SQL_07.12.20\obj\Debug\SQL_07.12.20.csprojAssemblyReference.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\SQL_SERVER\SQL_07.12.20\SQL_07.12.20\obj\Debug\SQL_07._12._20.Form1.resources
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\SQL_SERVER\SQL_07.12.20\SQL_07.12.20\obj\Debug\SQL_07._12._20.Properties.Resources.resources
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\SQL_SERVER\SQL_07.12.20\SQL_07.12.20\obj\Debug\SQL_07.12.20.csproj.GenerateResource.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\SQL_SERVER\SQL_07.12.20\SQL_07.12.20\obj\Debug\SQL_07.12.20.csproj.CoreCompileInputs.cache
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\SQL_SERVER\SQL_07.12.20\SQL_07.12.20\obj\Debug\SQL_07.12.20.exe
+C:\Users\TU-104\Desktop\UCHEBA\Grisman_SS\SQL_SERVER\SQL_07.12.20\SQL_07.12.20\obj\Debug\SQL_07.12.20.pdb

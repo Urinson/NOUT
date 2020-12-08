@@ -1,0 +1,1 @@
+CREATE TABLE Kategory (id int, Naimenovanie nchar (20))

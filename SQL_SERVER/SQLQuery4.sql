@@ -1,0 +1,1 @@
+CREATE TABLE Kategori(id int,Naimenovanie nchar(20))
